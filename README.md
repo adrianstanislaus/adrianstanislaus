@@ -1,8 +1,6 @@
 👋 Hi, I’m @adrianstanislaus
-👀 I’m interested in Network Engineering and Automation, Cloud Engineering, Data Science, Creative Problem solving and Design
-🌱 I’m currently learning Data Science and Machine learning
-💞️ I’m looking to collaborate on Data analysis and Data science project
-📫 How to reach me : 18118036@telecom.stei.itb.ac.id
+👀 I’m currently exploring in the realms of Information Security
+📫 How to reach me : siregaradrian10@gmail.com
 
 <!---
 adrianstanislaus/adrianstanislaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
