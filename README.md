@@ -1,5 +1,7 @@
 👋 Hi, I’m @adrianstanislaus
-👀 I’m currently exploring the realms of Information Security
+
+👀 I’m currently exploring the realms of Information Security: Cloud Security, Product Security, and many more. I am also interested in creative coding.
+
 📫 How to reach me: siregaradrian10@gmail.com
 
 <!---
